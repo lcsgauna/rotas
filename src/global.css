@@ -1,0 +1,16 @@
+:root{
+  --primary-blue: #1E3649;
+  --secundary-blue: #8AB8E8;
+  --primary-green: #1D4438;
+  --secundary-green:#9fe6a0;
+  --primary-gray: #E1E1E1;
+  --white: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  background: var(--primary-blue);
+}
