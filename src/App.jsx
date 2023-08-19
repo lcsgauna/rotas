@@ -1,5 +1,5 @@
 import './global.css'
-import Header from './components/headers/Header.jsx';
+import Header from './components/headers';
 
 export default function App(){
   return (

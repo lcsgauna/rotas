@@ -1,4 +1,4 @@
-import '../../styles/Headers/styles.css'
+import '../../styles/headers/styles.css'
 import Planet from '../../assets/world.svg'
 import Dots from '../../assets/dots_nine.svg'
 
